@@ -1,6 +1,6 @@
 {
   "name": "language-detect-exec",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Automatically execute a file in a known programming language.",
   "main": "language-detect-exec.js",
   "scripts": {
