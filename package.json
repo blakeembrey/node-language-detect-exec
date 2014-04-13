@@ -28,7 +28,6 @@
   },
   "dependencies": {
     "language-detect": "0.0.3",
-    "language-exec": "0.0.1",
-    "variadic": "0.0.2"
+    "language-exec": "0.0.1"
   }
 }
