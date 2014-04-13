@@ -3,7 +3,7 @@ var exec   = require('../');
 var path   = require('path');
 var assert = require('assert');
 
-describe('language-exec', function () {
+describe('language-detect-exec', function () {
   describe('language exists', function () {
     it('should execute the file', function (done) {
       var file = path.join(__dirname, 'fixtures', 'CoffeeScript.coffee');
