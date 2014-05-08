@@ -1,6 +1,6 @@
 # Language Detect Exec
 
-Automatically execute a file in a known programming language based on [language-command](https://github.com/blakeembrey/node-language-command).
+Automatically execute a file in a known programming language based on the filename from [language-command](https://github.com/blakeembrey/node-language-command).
 
 ## Installation
 

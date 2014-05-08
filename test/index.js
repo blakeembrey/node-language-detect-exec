@@ -43,7 +43,7 @@ describe('language-detect-exec', function () {
 
   describe('arguments', function () {
     it('should pass through command line arguments', function (done) {
-      var file  = path.join(__dirname, 'fixtures', 'C.c');
+      var file  = path.join(__dirname, 'fixtures', 'C++.cpp');
       var value = Math.random();
 
       return exec(file, value, function (err, stdout, stderr) {
@@ -60,7 +60,7 @@ describe('language-detect-exec', function () {
       var cwd  = path.join(__dirname, '..');
       var file = path.join(__dirname, 'fixtures', 'JavaScript.js');
 
-      return exec(file, null, {
+      return exec(file, {
         cwd: cwd
       }, function (err, stdout, stderr) {
         assert.ok(!stderr);

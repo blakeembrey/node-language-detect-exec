@@ -27,7 +27,7 @@
     "istanbul": "^0.2.6"
   },
   "dependencies": {
-    "language-detect": "0.0.3",
+    "language-detect": "0.0.4",
     "language-exec": "0.0.1"
   }
 }
