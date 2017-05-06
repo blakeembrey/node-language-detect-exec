@@ -1,9 +1,10 @@
 # Language Detect Exec
 
+
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
-[![Gittip][gittip-image]][gittip-url]
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/node-language-detect-exec.svg)](https://greenkeeper.io/)
 
 Automatically execute a file in a known programming language based on the filename from [language-command](https://github.com/blakeembrey/node-language-command).
 
@@ -33,5 +34,3 @@ MIT
 [travis-url]: https://travis-ci.org/blakeembrey/node-language-detect-exec
 [coveralls-image]: https://img.shields.io/coveralls/blakeembrey/node-language-detect-exec.svg?style=flat
 [coveralls-url]: https://coveralls.io/r/blakeembrey/node-language-detect-exec?branch=master
-[gittip-image]: https://img.shields.io/gittip/blakeembrey.svg?style=flat
-[gittip-url]: https://www.gittip.com/blakeembrey
