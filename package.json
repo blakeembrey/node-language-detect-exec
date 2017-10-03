@@ -28,7 +28,7 @@
   "homepage": "https://github.com/blakeembrey/node-language-detect-exec",
   "devDependencies": {
     "istanbul": "^0.4.5",
-    "mocha": "^3.3.0"
+    "mocha": "^4.0.0"
   },
   "dependencies": {
     "language-detect": "^1.0.0",
